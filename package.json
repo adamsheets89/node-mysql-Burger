@@ -1,5 +1,5 @@
 {
-  "name": "node-mysql-Burger",
+  "name": "node-mysql-burger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/adamsheets89/node-mysql-Burger.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/adamsheets89/node-mysql-Burger/issues"
